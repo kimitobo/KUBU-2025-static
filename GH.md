@@ -12,7 +12,7 @@ Marking the first in a series of interrelated programmes that take the elements 
 
 ## EXHIBITION
 
-![Les fleurs Du Mal\](./pics/FleursDuMal.gif “Fleurs Du Mal”)  
+![Les fleurs Du Mal](./pics/FleursDuMal.gif “Fleurs Du Mal”)  
 Photo: Ahmed Alalousi
 
 **Les fleurs Du Mal/Flowers of Evil, Andy Best-Dunkley and Merja Puustinen**  
@@ -23,7 +23,7 @@ What form will plants take if their genetic structure has changed because of exp
 Andy Best-Dunkley and Merja Puustinen are an Espoo-based artist duo whose transdisciplinary media practice spans over three decades of collaborative works, ranging from early Internet art, there lead the field in creating 3D online words, and used game and mobile platforms to create works that tackle social and political themes in playful, provocative and physical ways. Combining sculpture, performance and installation, since the mid-2000s they have been creating large-scale interventions that take the form of inflatable sculptures for museums and urban spaces. In 2012, the duo founded Espoo Kunsthalle, an initiative to bring critically engaged art to suburban areas and are currently running an artistic residency to investigate the environmental challenges facing the Baltic Sea. Best-Dunkley leads on sculpture teaching and development within the Centre for General Studies, Aalto School of Arts, Design and Architecture.  
 [http://www.andyandmerja.com/](http://www.andyandmerja.com/) 
 
-![Forest Il\](./pics/ForestI.gif)  
+![Forest I](./pics/ForestI.gif)  
 Photo: Antti Laitinen
 
 **Antti Laitinen (FI)**  
