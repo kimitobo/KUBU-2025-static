@@ -1,4 +1,4 @@
-# THE GARDEN AND THE HEDGE
+[The Garden And The Hedge](GH.md) [Piha, Pyhä, Metsä, Maa](PP.md)
 
 ## THE GARDEN AND THE HEDGE
 
